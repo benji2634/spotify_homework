@@ -1,0 +1,21 @@
+body {
+  background-color: teal;
+}
+
+main{
+  width: 500px;
+  margin: 0 auto;
+}
+
+input{
+  padding: 10px;
+  border-radius: 5px;
+  width: 400px;
+  font-size: 22px;
+  margin: 10px;
+}
+
+.album{
+  padding: 5px;
+}
+
